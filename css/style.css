@@ -615,7 +615,7 @@ body {
         cursor: pointer;
         position: absolute;
         top: 10px;
-        right: 312px;
+        right: 45%;
     }
     .menu-btn span{
         background-color: #ECB84C;
